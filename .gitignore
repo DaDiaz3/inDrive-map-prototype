@@ -1,0 +1,18 @@
+# Игнорируем виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Системные файлы
+.DS_Store
+
+# Streamlit кэш
+.streamlit/
+
+# Данные (тяжёлые датасеты)
+data/*
+!data/.gitkeep

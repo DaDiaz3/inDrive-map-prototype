@@ -1,0 +1,7 @@
+pandas
+numpy
+h3==3.7.6
+streamlit
+folium
+streamlit-folium
+branca
